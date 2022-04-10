@@ -21,6 +21,10 @@
     </div>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v1</p>
-    
+    <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+您的浏览器不支持 audio 元素。
+</audio>
 </body>
 </html>
