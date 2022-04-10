@@ -16,8 +16,9 @@
         
     </div>
     <div style="color:#0000FF">
-       <p>玩会<b>游戏</b>吧！</p>
-        <h3>edge://surf/</h3>
+         <p>玩会
+            <b><a href="edge://surf/">游戏</a>
+            </b>吧！</p>
     </div>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v1</p>
