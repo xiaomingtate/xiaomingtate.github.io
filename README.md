@@ -15,8 +15,11 @@
         <h3>这是一个自主做的网站 新手上路。</h3>
         
     </div>
+    <div style="color:#0000FF">
+        <h3>edge://surf/</h3>
+    </div>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
-
     <p>作者：<b>小明tate</b> 网站版本v1</p>
+    
 </body>
 </html>
