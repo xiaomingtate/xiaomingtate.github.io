@@ -17,14 +17,13 @@
     </div>
     <div style="color:#0000FF">
         <p>玩会<b>↓</b>吧！</p>
-        <h3><a href="edge://surf/">游戏</a></h3>
+        <h3><a href="https://www.kada.com/">游戏</a></h3>
     </div>
-    <img src="https://cn.bing.com/images/search?q=%E5%9B%BE%E7%89%87&FORM=IQFRBA&id=B896579C0604ADDABEDC192713528B3A915C2CB5" alt="头像" width="100" height="100">
+    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.308fke0-oJZMApzlmE5DUAHaFj?w=214&h=180&c=7&r=0&o=5&pid=1.7" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v1</p>
     <audio controls>
   <source src="horse.ogg" type="audio/ogg">
-  <source src="javascript:;" type="audio/mpeg">
-您的浏览器不支持 audio 元素。
+  <source src=";" type="audio/mpeg">
 </audio>
 </body>
 </html>
