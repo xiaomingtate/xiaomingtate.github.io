@@ -16,6 +16,7 @@
         
     </div>
     <div style="color:#0000FF">
+       <p>玩会<b>游戏</b>吧！</p>
         <h3>edge://surf/</h3>
     </div>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
