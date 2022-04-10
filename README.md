@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <body style="background-color:yellow;margin: 100px;border: 1px solid red;padding: 30px;"></body>
+    <body style="background-color:yellow;margin: 100px;border: 1px solid red;padding: 10px;"></body>
     <div style="color:#ff0000"></div>
     <h1>你好，谢谢你点开此网站</h1>
     <div style="color:#0000FF">
