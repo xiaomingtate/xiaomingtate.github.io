@@ -21,13 +21,6 @@
     </div>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v1</p>
-    <video width="320" height="240" controls autoplay>
-  <source src="movie.ogg" type="video/ogg">
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.webm" type="video/webm">
-  <object data="movie.mp4" width="320" height="240">
-    <embed width="320" height="240" src="movie.swf">
-  </object>
-</video>
+    
 </body>
 </html>
