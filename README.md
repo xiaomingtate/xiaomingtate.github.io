@@ -19,7 +19,7 @@
         <p>玩会<b>↓</b>吧！</p>
         <h3><a href="MinecraftInstaller.msihttps://launcher.mojang.com/download/MinecraftInstaller.msi">游戏</a></h3>
     </div>
-    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.308fke0-oJZMApzlmE5DUAHaFj?w=214&h=180&c=7&r=0&o=5&pid=1.7" alt="头像" width="1000" height="1000">
+    <img src="Zombatar_1.jpg" alt="头像" width="1000" height="1000">
     <p>作者：<b>小明tate</b> 网站版本v1.5</p>
     <audio controls>
   <source src="horse.ogg" type="audio/ogg">
