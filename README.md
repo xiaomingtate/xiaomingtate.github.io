@@ -19,11 +19,11 @@
         <p>玩会<b>↓</b>吧！</p>
         <h3><a href="MinecraftInstaller.msihttps://launcher.mojang.com/download/MinecraftInstaller.msi">游戏</a></h3>
     </div>
-    <img src="Zombatar_1.jpg" alt="头像" width="1000" height="1000">
+    <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v1.5</p>
     <audio controls>
   <source src="horse.ogg" type="audio/ogg">
-  <source src=";" type="audio/mpeg">
+  <source src=SLANDER、Dylan Matthew - Love is gone (Justin Dai & Marvin Bootleg) (Marvin remix).mp3";" type="audio/mpeg">
 </audio>
 </body>
 </html>
