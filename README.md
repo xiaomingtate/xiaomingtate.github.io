@@ -19,6 +19,21 @@
         <p>玩会<b>↓</b>吧！</p>
         <h3><a href="https://www.xbox.com/zh-tw/games/store/pubg-battlegrounds/c0mn5dn8kr3f">游戏</a></h3>
     </div>
+        <!-- 打开弹窗按钮 -->
+<button id="myBtn">打开弹窗</button>
+
+<!-- 弹窗 -->
+<div id="myModal" class="modal">
+
+  <!-- 弹窗内容 -->
+	<div class="modal-content">
+	  <div class="modal-header">
+	    <span class="close">&times;</span>
+	    <h2>弹窗头部</h2>
+	  </div>
+	  <div class="modal-body">
+	    <p>弹窗文本...</p>
+	    <p>弹窗文本...</p>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v2</p>
     <audio controls>
