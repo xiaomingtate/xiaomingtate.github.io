@@ -19,13 +19,12 @@
         <p>玩会<b>↓</b>吧！</p>
         <h3><a href="https://www.xbox.com/zh-tw/games/store/pubg-battlegrounds/c0mn5dn8kr3f">游戏</a></h3>
     </div>
-
     <!-- 打开弹窗按钮 -->
     <button id="myBtn">打开弹窗</button>
 
     <!-- 弹窗 -->
     <div id="myModal" class="modal">
-    
+
       <!-- 弹窗内容 -->
       <div class="modal-content">
         <span class="close">&times;</span>
