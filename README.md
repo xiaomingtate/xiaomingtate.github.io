@@ -19,8 +19,12 @@
         <h3><a href="https://www.xbox.com/zh-tw/games/store/pubg-battlegrounds/c0mn5dn8kr3f">游戏</a></h3>
     <img src="Zombatar_1.jpg" alt="头像" width="100" height="100">
     <p>作者：<b>小明tate</b> 网站版本v2</p>
-    <audio controls>
-  <source src=SLANDER、Dylan Matthew - Love is gone (Justin Dai & Marvin Bootleg) (Marvin remix).mp3">
+    <div class="logo_box"><img class="logo_img" src="images/login_logo.png"></div>
+	<div class="login_box">
+		<h1 class="title">欢迎登录</h1>
+		<input class="input_box" type="text" placeholder="用户名">
+		<input class="input_box" type="password" placeholder="密码">
+		<input class="button_box" type="button" value="登录">
 </audio>
 </body>
 </html>
