@@ -64,14 +64,14 @@
                   <label class="col-sm-offset-1"  >
                     <input type="checkbox">自动登录
                   </label>
-                  <a  class="col-sm-offset-1" href="">忘记密码</a>
+                  <a  class="col-sm-offset-1" href="https://xiaomingtate.github.io/">忘记密码</a>
                 </div>
               </div>
             </div>
             <div class="form-group">
               <div class="col-sm-offset-2 col-sm-10">
                 <button type="submit" class="btn btn-default">登录</button>
-                <a type="submit" class="btn btn-default col-sm-offset-4 " href="register.jsp" >注册</a>
+                <a type="sub mit" class="btn btn-default col-sm-offset-4 " href="https://xiaomingtate.github.io/" >注册</a>
               </div>
               
             </div>
