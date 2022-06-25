@@ -26,7 +26,8 @@
     </style>
 </head>
 <body>
-    
+    密码库 = ["123456789"]
+    用户库 = ["xiaomingtate"]
     <body style="background-color:yellow;margin: 50px;border: 1px solid red;padding: 10px;"></body>
     <div style="color:#ff0000"></div>
     <h1>你好，谢谢你点开此网站</h1>
@@ -46,13 +47,13 @@
             <div class="form-group  ">
               <label for="" class="col-sm-2 control-label">账号</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control" name="username" id=""      placeholder="请输入账号">
+                <input type="text" class="form-control" name="password" id=用户库      placeholder="请输入账号">
               </div>
             </div>
             <div class="form-group">
               <label for="lastname" class="col-sm-2 control-label">密码</label>
               <div class="col-sm-10">
-                <input type="password" class="form-control" id="lastname" name="password" placeholder="请输入密码">
+                <input type="password" class="form-control" id=密码库 name="password" placeholder="请输入密码">
               </div>
             </div>
             <div class="form-group">
