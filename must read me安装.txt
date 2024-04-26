@@ -1,0 +1,11 @@
+1.打开linux 先更改apt源 
+  sudo nano /etc/apt/sources.list
+推荐https://mirrors.tuna.tsinghua.edu.cn/help/debian/
+
+
+
+https://gitee.com/pdusb/pdusb-fast-btpanel
+
+bt 16
+升级之最新版宝塔
+
